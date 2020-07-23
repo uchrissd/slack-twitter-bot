@@ -1,0 +1,22 @@
+{
+  "name": "slack-twitter-bot",
+  "version": "1.0.0",
+  "description": "A bot that pulls tweets from a twitter feed and sends them to a designated channel in Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchrissd/slack-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchrissd/slack-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/uchrissd/slack-twitter-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.1.1"
+  }
+}
